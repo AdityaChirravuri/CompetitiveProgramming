@@ -1,2 +1,1 @@
-# CompetitiveProgramming
-The Work from different online coding platforms 
+Codes of different online Coding platforms
