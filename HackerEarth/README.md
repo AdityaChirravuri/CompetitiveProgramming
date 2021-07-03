@@ -1,1 +1,1 @@
-
+- Connect with me: <a href= "https://www.hackerearth.com/@adityachirravuri17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="adityachirravuri17" height="30" width="40" /></a></a>
