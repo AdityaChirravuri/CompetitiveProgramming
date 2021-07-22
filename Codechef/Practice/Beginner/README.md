@@ -23,4 +23,8 @@
 |Sum OR Difference|DIFFSUM|Solved|
 |Primality Test|PRB01|Solved|
 |Id and Ship|FLOW010|Solved|
-|Lucky Four|LUCKFOUR|UnSolved|
+|GCD and LCM|FLOW016|Solved|
+|Gross Salaray|FLOW011|Solved|
+|Lapindromes|LAPIN|Solved|
+|The Smallest pair|SMPAIR|Solved|
+|Grade the Steel|FLOW014|Solved|
