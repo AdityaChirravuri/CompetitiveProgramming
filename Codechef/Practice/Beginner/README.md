@@ -24,8 +24,3 @@
 |Primality Test|PRB01|Solved|
 |Id and Ship|FLOW010|Solved|
 |Lucky Four|LUCKFOUR|UnSolved|
-|Second Largest|FLOW017|UnSolved|
-|Small Factorial|FLOW018|UnSolved|
-|Packages Cupcakes|MUFFINS3|UnSolved|
-|Ceil and Receipts|CIELRCPT|UnSolved|
-|Puppy and Sum|PPSUM|UnSolved|
