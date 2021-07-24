@@ -1,9 +1,11 @@
 |Level|Problems Solved|Number of problems|
+|-----|---------------|------------------|
 |Easy|||
-|Medium|1|1|
+|Medium|2|2|
 |Hard|
-|Total|1|1|
+|Total|2|2|
 
 |Problem|Level|Status|
 |-------|-----|------|
-|Scoreboard queries|Medium|solved|
+|Scoreboard queries|Medium|Solved|
+|Minimum AND xor OR|Medium|Solved|
