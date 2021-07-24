@@ -1,3 +1,5 @@
+Problems Solved
+---
 |Level|Problems Solved|Number of problems|
 |-----|---------------|------------------|
 |Easy|||
@@ -5,6 +7,8 @@
 |Hard|
 |Total|2|2|
 
+Problems status
+---
 |Problem|Level|Status|
 |-------|-----|------|
 |Scoreboard queries|Medium|Solved|
