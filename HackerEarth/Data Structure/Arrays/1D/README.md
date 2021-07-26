@@ -2,10 +2,10 @@ Problems Solved
 ---
 |Level|Problems Solved|Number of problems|
 |-----|---------------|------------------|
-|Easy|2|2|
+|Easy|4|4|
 |Medium|3|3|
 |Hard|
-|Total|5|5|
+|Total|7|7|
 
 Problems status
 ---
@@ -13,6 +13,8 @@ Problems status
 |-------|-----|------|
 |2 Arrays|Easy|Solved|
 |Infinite arrays|Easy|Solved|
+|Finding the Subarrays|Easy|Solved|
+|Not in Range|Easy|Solved|
 |Scoreboard queries|Medium|Solved|
 |Minimum AND xor OR|Medium|Solved|
 |In An Array|Medium|Solved|
