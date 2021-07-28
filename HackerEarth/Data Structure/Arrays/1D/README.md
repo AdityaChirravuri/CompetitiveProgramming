@@ -2,10 +2,10 @@ Problems Solved
 ---
 |Level|Problems Solved|Number of problems|
 |-----|---------------|------------------|
-|Easy|6|6|
+|Easy|8|8|
 |Medium|3|3|
 |Hard|
-|Total|9|9|
+|Total|11|11|
 
 Problems status
 ---
@@ -17,6 +17,8 @@ Problems status
 |Not in Range|Easy|Solved|
 |Perfect Subarray|Easy|Solved|
 |Take off|Easy|Solved|
+|Pepper and Contiguous Even Subarray <Debugging>|Easy|Solved|
+|Micro and Array Update|Easy|Solved|
 |Scoreboard queries|Medium|Solved|
 |Minimum AND xor OR|Medium|Solved|
 |In An Array|Medium|Solved|
