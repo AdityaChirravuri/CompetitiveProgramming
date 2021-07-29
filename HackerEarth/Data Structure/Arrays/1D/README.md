@@ -2,10 +2,10 @@ Problems Solved
 ---
 |Level|Problems Solved|Number of problems|
 |-----|---------------|------------------|
-|Easy|9|9|
+|Easy|13|13|
 |Medium|3|3|
 |Hard|
-|Total|12|12|
+|Total|16|16|
 
 Problems status
 ---
