@@ -13,3 +13,6 @@ Problem Status
 |-------|-----|------|
 |Name Look Up|Easy|Solved|
 |Maximum Sum|Easy|Solved|
+|Festivals|Easy|Solved|
+|Difficult Characters|Easy|Solved|
+|Maximum Occurences|Easy|Solved|
