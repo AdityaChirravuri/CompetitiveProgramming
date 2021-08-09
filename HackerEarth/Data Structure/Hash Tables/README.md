@@ -2,7 +2,7 @@ Problems Solved
 ---
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
-|Easy|8|8|
+|Easy|10|10|
 |Medium|
 |Hard|
 |Total|8|8|
@@ -19,3 +19,5 @@ Problem Status
 |All Vowel|Easy|Solved|
 |Bob and String|Easy|Solved|
 |ICPC Management|Easy|Solved|
+|Alien Language|Easy|Solved|
+|Mind Palaces|Easy|Solved|
