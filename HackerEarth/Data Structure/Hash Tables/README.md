@@ -2,10 +2,10 @@ Problems Solved
 ---
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
-|Easy|10|10|
+|Easy|11|11|
 |Medium|
 |Hard|
-|Total|8|8|
+|Total|11|11|
 
 Problem Status
 ---
@@ -21,3 +21,4 @@ Problem Status
 |ICPC Management|Easy|Solved|
 |Alien Language|Easy|Solved|
 |Mind Palaces|Easy|Solved|
+|Little Jhool and the Magical Jewels|Easy|Solved|
