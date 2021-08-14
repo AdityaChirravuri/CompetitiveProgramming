@@ -15,7 +15,3 @@
 |Hard|
 |TOTAL|
 
-Problem Status
----
-|Problem|Level|Status|
-|-------|-----|------|
