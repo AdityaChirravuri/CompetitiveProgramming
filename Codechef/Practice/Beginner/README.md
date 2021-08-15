@@ -28,3 +28,6 @@
 |Lapindromes|LAPIN|Solved|
 |The Smallest pair|SMPAIR|Solved|
 |Grade the Steel|FLOW014|Solved|
+|Cutting Recipes|RECIPE|Solved|
+|Tanu and Headed-bob|HEADBOB|Solved|
+|Greedy Puppy|GDOG|Solved|
