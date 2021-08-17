@@ -1,11 +1,15 @@
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
-|Easy|
+|Easy|4|4|
 |Medium|
 |Hard|
-|TOTAL|
+|TOTAL|4|4|
 
 Problem Status
 ---
 |Problem|Level|Status|
 |-------|-----|------|
+|Multiple of 3|Easy|Solved|
+|Filling Stones|Easy|Solved|
+|Equalize Strings|Easy|Solved|
+|Equalize Strings|Easy|Solved|
