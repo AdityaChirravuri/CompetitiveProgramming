@@ -1,9 +1,9 @@
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
-|Easy|4|4|
+|Easy|7|7|
 |Medium|
 |Hard|
-|TOTAL|4|4|
+|TOTAL|7|7|
 
 Problem Status
 ---
@@ -13,3 +13,6 @@ Problem Status
 |Filling Stones|Easy|Solved|
 |Equalize Strings|Easy|Solved|
 |Equalize Strings|Easy|Solved|
+|Exploring Ruins|Easy|Solved|
+|Easy Strong Permutation|Easy|Solved|
+|Chandu and Consecutive Letters|Easy|Solved|
