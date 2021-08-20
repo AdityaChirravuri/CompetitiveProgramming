@@ -2,15 +2,28 @@ Problem Solved
 
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
-|Easy|14|14|
+|Easy|28|28|
 |Medium|4|4|
-|Hard|
-|Total|18|18|
+|Total|32|32|
 
 Problem Status
 
 |Problem|Level|Status|
 |-------|-----|------|
+|Cut #1|Easy|Solved|
+|Cut #2|Easy|Solved|
+|Cut #3|Easy|Solved|
+|Cut #4|Easy|Solved|
+|Cut #5|Easy|Solved|
+|Cut #6|Easy|Solved|
+|Cut #7|Easy|Solved|
+|Cut #8|Easy|Solved|
+|Cut #9|Easy|Solved|
+|Head of a Text File #1|Easy|Solved|
+|Head of a Text File #2|Easy|Solved|
+|Middle of a Text File|Easy|Solved|
+|Tail of a Text File #1|Easy|Solved|
+|Tail of a Text File #2|Easy|Solved|
 |Tr Command #1|Easy|Solved|
 |Tr Command #2|Easy|Solved|
 |Tr Command #3|Easy|Solved|
