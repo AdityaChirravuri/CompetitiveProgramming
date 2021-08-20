@@ -2,15 +2,25 @@ Problem Solved
 
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
-|Easy|4|4
+|Easy|14|14|
 |Medium|4|4|
 |Hard|
-|Total|8|8|
+|Total|18|18|
 
 Problem Status
 
 |Problem|Level|Status|
 |-------|-----|------|
+|Tr Command #1|Easy|Solved|
+|Tr Command #2|Easy|Solved|
+|Tr Command #3|Easy|Solved|
+|Sort Command #1|Easy|Solved|
+|Sort Command #2|Easy|Solved|
+|Sort Command #3|Easy|Solved|
+|Sort Command #4|Easy|Solved|
+|Sort Command #5|Easy|Solved|
+|Sort Command #6|Easy|Solved|
+|Sort Command #7|Easy|Solved|
 |Unique Command #1|Easy|Solved|
 |Unique Command #2|Easy|Solved|
 |Unique Command #3|Easy|Solved|
