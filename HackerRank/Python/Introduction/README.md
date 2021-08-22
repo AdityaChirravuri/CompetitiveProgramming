@@ -1,3 +1,5 @@
+Problems Solved
+---
 |Level|Problem Solved|Number of Problems|
 |-----|--------------|------------------|
 |Easy|6|6|
