@@ -1,8 +1,5 @@
-- Basics of String Manipulation
-- String Searching
-- Z Algorithms
-- Manchar's Algorithms
-
+Problems Solved
+---
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
 |Easy|
