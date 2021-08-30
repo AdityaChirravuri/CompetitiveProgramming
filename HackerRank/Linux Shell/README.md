@@ -5,7 +5,7 @@ Problem Solved:
 ---
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
-|Easy|
-|Medium|
-|Hard|
-|TOTAL|
+|Easy|43|43|
+|Medium|15|15|
+|Hard|4|4|
+|TOTAL|62|62|
