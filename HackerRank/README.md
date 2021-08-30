@@ -14,5 +14,4 @@ Connect With me: <a href="https://www.hackerrank.com/vss_aditya" target="blank">
 
 Note
 ---
-- Linux shell not yet started
 - Regex not yet started
