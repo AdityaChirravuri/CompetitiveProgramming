@@ -5,7 +5,7 @@ Problem Solved
 |Easy|2|2|
 |Medium|7|7|
 |Hard|2|2|
-|TOTAL|9|9|
+|TOTAL|11|11|
 
 Problem Status
 ---
