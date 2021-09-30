@@ -33,3 +33,5 @@
 |Cutting Recipes|RECIPE|Solved|
 |Tanu and Headed-bob|HEADBOB|Solved|
 |Greedy Puppy|GDOG|Solved|
+|Two vs Ten|TWOVSTEN|Solved|
+|Rectangle|RECTANGL|Solved|
