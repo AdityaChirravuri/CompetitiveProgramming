@@ -11,7 +11,9 @@
 |Turbo Sort|TSORT|Solved|
 |Reverse the Number|FLOW007|Solved|
 |Finding Square Root|FSQRT|Solved|
+|Second Largest|FLOW017|Solved|
 |The Lead Game|TLG|Solved|
+|Small Factorial|FLOW008|Solved|
 |Helping Chef|FLOW008|Solved|
 |Chef and Operator|CHOPRT|Solved|
 |Chef and Remissness|REMISS|Solved|
